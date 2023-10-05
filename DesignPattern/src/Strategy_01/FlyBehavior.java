@@ -1,4 +1,4 @@
-package duck_01;
+package Strategy_01;
 
 public interface FlyBehavior {
 

@@ -2,7 +2,6 @@ package Observer_02;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class WeatherData implements Subject{
     private List<Observer> observers;
